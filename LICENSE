@@ -1,0 +1,29 @@
+# Proprietary Software License & Patent Notice
+### Fill Your Menubar™ — End User License Agreement (EULA)
+
+Copyright © 2026 Jedieason. All Rights Reserved.
+
+---
+
+### 1. Grant of License — Free to Use
+Fill Your Menubar ("the Software") is freeware. The author grants you a revocable, non-exclusive, non-transferable, royalty-free license to download, install, and execute the pre-compiled binary versions of the Software on Apple Macintosh computers running macOS, for personal, educational, non-profit, and commercial desktop use, subject to the conditions set forth herein.
+
+### 2. Patent & Intellectual Property Notice
+The underlying systems, methods, window-layering compositing architectures, dynamic WindowServer color sampling mechanisms, and visual foreground preservation algorithms implemented within this Software are proprietary inventions protected by copyright laws, trade secret principles, and applicable patent laws (including patents and patent applications pending). No license, express or implied, by estoppel or otherwise, to any patents or intellectual property rights is granted beyond the execution of the official compiled binary application.
+
+### 3. Closed Source & Anti-Reverse Engineering Restrictions
+This Software is NOT open source. No license is granted under the MIT License, GNU General Public License (GPL), Apache License, or any other open-source framework. The source code, internal data structures, and algorithms remain the exclusive trade secrets and proprietary property of the author. You agree that you shall NOT:
+- Decompile, disassemble, reverse engineer, decrypt, extract, or attempt to derive the source code or underlying algorithms of the Software, in whole or in part;
+- Distribute, publish, host, disclose, or make available any portion of the source code;
+- Modify, adapt, translate, alter, or create derivative works of the Software;
+- Sublicense, rent, lease, resell, redistribute for commercial profit, or bundle the Software into unauthorized commercial distributions without prior written permission from the copyright holder;
+- Remove, alter, or obscure any proprietary notices, trademarks, patent notices, or copyright legends affixed to or contained within the Software.
+
+### 4. Distribution of Binaries
+You are permitted to share the original, unmodified official installer package (`.dmg`) and direct users to the official release repository (https://github.com/jedieason/fill-your-menubar). You may not distribute cracked, modified, patched, or altered binary copies.
+
+### 5. Termination
+This license is effective until terminated. Your rights under this license will terminate automatically and without notice if you fail to comply with any of its terms. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+### 6. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

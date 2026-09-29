@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleDevelopmentRegion</key><string>en</string>
+<key>CFBundleDisplayName</key><string>Fill Your Menubar</string>
+<key>CFBundleName</key><string>Fill Your Menubar</string>
+<key>CFBundleExecutable</key><string>PrismBar</string>
+<key>CFBundleIdentifier</key><string>local.prismbar.app</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>2.0.8</string>
+<key>CFBundleVersion</key><string>16</string>
+<key>CFBundleIconFile</key><string>PrismBar</string>
+<key>LSMinimumSystemVersion</key><string>26.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+<key>NSScreenCaptureUsageDescription</key><string>Fill Your Menubar samples narrow strips at and below the menu bar to preserve icons over fullscreen backgrounds, adapt colors, and analyze system audio for the visualizer. Everything stays in memory on your Mac.</string>
+<key>NSAudioCaptureUsageDescription</key><string>Fill Your Menubar analyzes system output audio locally to animate the music visualizer. Audio is never saved or uploaded.</string>
+<key>NSAppleEventsUsageDescription</key><string>Fill Your Menubar reads playback position and local artwork from Music or Spotify and sends playback commands when you use the progress bar or shortcuts.</string>
+<key>NSHumanReadableCopyright</key><string>Copyright © 2026 Fill Your Menubar contributors. MIT License.</string>
+</dict></plist>

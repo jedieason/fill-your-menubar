@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Proprietary Source Code Protection
+Sources/
+Tests/
+Scripts/
+*.swift
+*.metal
+*.c
+*.h
+
+# Xcode & Swift
+.build/
+Packages/
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+DerivedData/
+
+# Local Scratch & Temporary
+scratch/
+/tmp/
+*.log
+
+# App Bundles
+*.app/
+dist/*.app/
+dist/
