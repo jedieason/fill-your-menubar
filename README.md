@@ -26,16 +26,20 @@
 <br />
 
 <p align="center">
-  <img src="assets/hero-banner.jpg" alt="Fill Your Menubar - Intelligent Auto Color for macOS" width="100%" />
+  <img src="assets/demo-animation.gif" alt="Fill Your Menubar Startup & Color Fill Animation" width="100%" />
+</p>
+<p align="center">
+  <em>✨ Watch the smooth 0.32s adaptive color fill animation activate as an app enters fullscreen.</em><br />
+  <small><a href="assets/demo-animation.mp4">▶ High-Definition 60fps Video (MP4)</a> &bull; <a href="assets/demo-animation.mov">Original QuickTime (.mov)</a></small>
 </p>
 
 ---
 
 ## ✨ Overview
 
-Apple's stock macOS menu bar has remained static, disconnected, and visually uninspiring. Against vibrant wallpapers or rich window layouts, it often sits as an awkward gray or flat translucent strip.
+Apple's stock macOS menu bar has remained static, disconnected, and visually uninspiring. In fullscreen applications, macOS presents an abrupt pitch-black bar that cuts off the content below.
 
-**Fill Your Menubar** transforms the top edge of your Mac into an organic, harmonious extension of your desktop. Powered by proprietary, real-time wallpaper sampling and WindowServer-level compositing, it continuously extracts the exact color mood of your wallpaper or active applications—bringing your desktop to life with zero latency, zero screen flicker, and flawless native readability.
+**Fill Your Menubar** transforms the top edge of your Mac into an organic, harmonious extension of your desktop and active windows. Powered by proprietary, real-time edge sampling and WindowServer-level compositing, it continuously extracts the exact color mood of your active applications—bringing your display to life with zero latency, zero screen flicker, and flawless native readability.
 
 > **100% Free to Use:** Fill Your Menubar is a proprietary freeware utility protected by patents. It is completely free to download and use for everyone.
 
@@ -47,17 +51,39 @@ Apple's stock macOS menu bar has remained static, disconnected, and visually uni
 
 Here is how **Fill Your Menubar Auto Color** actually performs on macOS:
 
-<p align="center">
-  <img src="assets/autocolor-before-after.png" alt="Auto Color Before vs After on macOS" width="100%" />
-</p>
+<table>
+  <tr>
+    <th width="50%" align="center">❌ Stock macOS (Before)</th>
+    <th width="50%" align="center">✅ Fill Your Menubar (After)</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/demo-before.png" alt="Stock macOS Fullscreen Menubar - Harsh Black Cutoff" width="100%" />
+    </td>
+    <td>
+      <img src="assets/demo-after.png" alt="Fill Your Menubar - Adaptive Color & Pill Accents" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><em>Abrupt pitch-black menu bar cuts off the browser.</em></td>
+    <td align="center"><em>Fluid adaptive color fill seamlessly matches the active window with status pills.</em></td>
+  </tr>
+</table>
 
-*In the **Before** state, macOS shows an abrupt black menu bar that sharply cuts off the browser. With **Fill Your Menubar Auto Color**, the menu bar dynamically samples and extends Chrome's tab bar color to the top of your display, while keeping Apple and application menu items crisp and legible.*
+<br />
+
+<p align="center">
+  <img src="assets/demo-menubar-crop.png" alt="Menu Bar Close-up Comparison" width="100%" />
+</p>
+<p align="center">
+  <em>Top: Stock macOS default fullscreen bar &bull; Bottom: Fill Your Menubar with adaptive gradient fill and pill-accented status items.</em>
+</p>
 
 ### Why Auto Color is Superior
 
 | Feature | Stock macOS Menu Bar | Fill Your Menubar (Auto Color) |
 | :--- | :--- | :--- |
-| **Visual Integration** | Flat, disconnected gray or generic blur | **Dynamically sampled directly from active wallpaper** |
+| **Visual Integration** | Flat, disconnected black or generic blur | **Dynamically sampled directly from active window** |
 | **Multi-Zone Adaptation** | Uniform single tone | **Dual-band regional sampling** matching split windows |
 | **Native Text Clarity** | Fixed system opacity | **Patented WindowServer compositing** with auto-contrast |
 | **Screen Transitions** | Abrupt cuts | **Fluid 60fps sampling** with customizable Gaussian smoothing |
@@ -66,7 +92,10 @@ Here is how **Fill Your Menubar Auto Color** actually performs on macOS:
 <br />
 
 <p align="center">
-  <img src="assets/features-showcase.jpg" alt="Fill Your Menubar Feature Showcase" width="100%" />
+  <img src="assets/demo-menubar-animation.gif" alt="Menubar Adaptive Animation Detail" width="100%" />
+</p>
+<p align="center">
+  <em>Close-up: Real-time WindowServer compositing smoothly tinting the top bar with native readability.</em>
 </p>
 
 ---
@@ -93,12 +122,6 @@ Here is how **Fill Your Menubar Auto Color** actually performs on macOS:
 - **100% Local & On-Device:** Zero telemetry, zero analytics, zero external network connections. All sampling occurs strictly in memory and is discarded immediately.
 - **Battery-Conscious:** Automatically suspends sampling during display sleep, fullscreen video playback, or when the cursor hovers over menus.
 - **Multi-Monitor Native:** Automatically recognizes multiple displays and samples each monitor's desktop space independently.
-
-<br />
-
-<p align="center">
-  <img src="assets/settings-interface.png" alt="Fill Your Menubar Native Settings Interface" width="85%" />
-</p>
 
 ---
 
