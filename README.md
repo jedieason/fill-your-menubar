@@ -129,7 +129,7 @@ Here is how **Fill Your Menubar Auto Color** actually performs on macOS:
 
 ### Download & Install (DMG)
 
-1. Download the latest universal disk image: **[Fill-Your-Menubar-2.0.10-universal.dmg](https://github.com/jedieason/fill-your-menubar/releases/latest)**.
+1. Download the latest universal disk image: **[Fill-Your-Menubar-2.1.0-universal.dmg](https://github.com/jedieason/fill-your-menubar/releases/latest)**.
 2. Double-click the DMG and drag **Fill Your Menubar** into your **Applications** folder.
 3. Launch **Fill Your Menubar** from Applications or Spotlight.
 4. Click the menu bar icon to open **Settings**, and toggle **Enable Fill Your Menubar**. Set Color Source to **Sampled (Auto Color)**.

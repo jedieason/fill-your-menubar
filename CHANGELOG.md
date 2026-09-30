@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.1.0] - 2026-09-30
+
+### Added
+- **Global Full Screen & Menu Bar Toggle (`⌥⇧F` / Option + Shift + F):** Seamless hotkey toggle to enter pure, distraction-free full screen.
+  - Automatically switches macOS native menu bar auto-hide between "In Full Screen Only" (hidden) and "Never" (visible) while keeping the desktop menu bar unaffected.
+  - Toggles the Fill Your Menubar overlay off/on in sync with the native menu bar.
+  - Provides a single one-press shortcut to switch between full menubar presence and clean full-screen viewing vice versa.
+  - Added "Hide Menu Bars (Full Screen)" status item menu toggle and global shortcut management in Settings → Shortcuts.
+- **Dynamic Fullscreen Menu Bar Detection:** Employs real-time WindowServer notifications (`AppleInterfaceFullScreenMenuBarVisibilityChangedNotification`) and live space state tracking to ensure instant, synchronized menu bar visibility transitions.
+
+### Changed
+- **Removed Debug & Diagnostics Panel:** Completely stripped debug monitoring UI, diagnostic buttons, and monitor windows from the status menu and settings window for a clean, distraction-free production release.
+
 ## [2.0.10] - 2026-09-30
 
 ### Added
