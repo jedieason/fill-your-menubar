@@ -129,13 +129,49 @@ Here is how **Fill Your Menubar Auto Color** actually performs on macOS:
 
 ### Download & Install (DMG)
 
-1. Download the latest universal disk image: **[Fill-Your-Menubar-2.0.8-universal.dmg](https://github.com/jedieason/fill-your-menubar/releases/latest)**.
+1. Download the latest universal disk image: **[Fill-Your-Menubar-2.0.10-universal.dmg](https://github.com/jedieason/fill-your-menubar/releases/latest)**.
 2. Double-click the DMG and drag **Fill Your Menubar** into your **Applications** folder.
 3. Launch **Fill Your Menubar** from Applications or Spotlight.
 4. Click the menu bar icon to open **Settings**, and toggle **Enable Fill Your Menubar**. Set Color Source to **Sampled (Auto Color)**.
 
-> [!NOTE]
-> **Gatekeeper Notice:** Fill Your Menubar is distributed as an ad-hoc signed binary. If macOS Gatekeeper presents a prompt upon first launch, simply go to **System Settings → Privacy & Security** and click **Open Anyway**.
+---
+
+### 🍏 Step-by-Step Guide: Opening on macOS (First Launch)
+
+Because Fill Your Menubar is distributed directly outside the Mac App Store as an ad-hoc signed utility, macOS Gatekeeper may show a security notice on the very first launch. Follow these 3 simple steps to open it:
+
+#### **Step 1: Click "Done" on the initial warning**
+When you first open the app, macOS will display the notice:  
+> *"“Fill Your Menubar” Not Opened — Apple could not verify “Fill Your Menubar” is free of malware that may harm your Mac or compromise your privacy."*  
+
+👉 Click **Done** (do **not** click *Move to Bin*).
+
+<p align="center">
+  <img src="assets/gatekeeper-step1.jpg" alt="Step 1: Click Done on the initial Gatekeeper warning prompt" width="380">
+</p>
+
+#### **Step 2: Allow the app in System Settings**
+1. Open **System Settings** on your Mac.
+2. Click **Privacy & Security** in the sidebar.
+3. Scroll down to the **Security** section. You will see:  
+   > *“Fill Your Menubar” was blocked to protect your Mac.*  
+4. Click the **Open Anyway** button.
+
+<p align="center">
+  <img src="assets/gatekeeper-step2.jpg" alt="Step 2: Go to System Settings > Privacy & Security and click Open Anyway" width="620">
+</p>
+
+#### **Step 3: Confirm by clicking "Open Anyway"**
+A final confirmation dialog will appear:  
+> *"Open “Fill Your Menubar”? Apple is not able to verify that it is free from malware..."*  
+
+👉 Click **Open Anyway** (enter your Mac password or Touch ID if prompted).
+
+<p align="center">
+  <img src="assets/gatekeeper-step3.jpg" alt="Step 3: Click Open Anyway on the confirmation dialog" width="380">
+</p>
+
+🎉 **You're all set!** Fill Your Menubar is now fully trusted and will launch smoothly without any further prompts.
 
 ---
 
